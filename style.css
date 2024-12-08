@@ -1,0 +1,31 @@
+h1 {
+    background-color: blue;
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.paragraph {
+    background-color: rgb(125, 125, 221);
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-page {
+    width: 50%;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.two {
+    background-color: lightblue;
+ }
+
+
+.main-container2 {
+    display: flex;
+    justify-content: left;
+}
+
